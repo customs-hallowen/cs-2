@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://customs-hallowen.github.io/cs-2/sitemap.xml
